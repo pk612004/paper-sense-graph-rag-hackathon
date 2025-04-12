@@ -1,0 +1,8 @@
+streamlit
+langchain
+openai
+pypdf
+tiktoken
+networkx
+pyvis
+python-dotenv
