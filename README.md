@@ -13,6 +13,10 @@ A smart research assistant that allows users to **upload academic papers** and t
 - ⚡ Fast and easy-to-use Streamlit UI.
 
 ---
+## 📹 Demo Video
+
+Watch the full demo here: [Click to Watch](https://youtu.be/JB1I1HF_KH4)
+
 
 ## 🛠️ Tech Stack
 
@@ -43,3 +47,5 @@ paper_sense_graph_rag/
 ├── .gitignore
 ├── requirements.txt
 ├── README.md
+
+
