@@ -15,7 +15,7 @@ A smart research assistant that allows users to **upload academic papers** and t
 ---
 ## 📹 Demo Video
 
-Watch the full demo here: [Click to Watch](https://youtu.be/JB1I1HF_KH4)
+Watch the full demo here: [Click to Watch](https://youtu.be/7Pmdk3cPTR8)
 
 
 ## 🛠️ Tech Stack
